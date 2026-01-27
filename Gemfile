@@ -6,7 +6,7 @@ ruby "3.4.7"
 
 gem "rails", "~> 8.1.2"
 gem "pg", "~> 1.5"
-gem "puma", "~> 6.0"
+gem "puma", "~> 7.2"
 
 # Authentication
 gem "bcrypt", "~> 3.1.7"
