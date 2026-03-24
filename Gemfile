@@ -9,7 +9,7 @@ gem "pg", "~> 1.5"
 gem "puma", "~> 6.0"
 
 # Authentication
-gem "bcrypt", "~> 3.1.7"
+gem "bcrypt", "~> 3.1.22"
 gem "jwt"
 
 # API
